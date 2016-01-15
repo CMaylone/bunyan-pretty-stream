@@ -1,0 +1,27 @@
+{
+  "name": "bunyan-pretty-stream",
+  "version": "1.0.0",
+  "description": "Pretty prints bunyan logs to stdout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMaylone/bunyan-pretty-stream.git"
+  },
+  "keywords": [
+    "bunyan",
+    "pretty",
+    "print"
+  ],
+  "author": "Corey Maylone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CMaylone/bunyan-pretty-stream/issues"
+  },
+  "homepage": "https://github.com/CMaylone/bunyan-pretty-stream#readme",
+  "dependencies": {
+    "bunyan": "^1.5.1"
+  }
+}
