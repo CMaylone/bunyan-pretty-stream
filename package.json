@@ -1,6 +1,6 @@
 {
   "name": "bunyan-pretty-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pretty prints bunyan logs to stdout",
   "main": "index.js",
   "scripts": {
