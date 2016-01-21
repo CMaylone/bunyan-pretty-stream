@@ -4,7 +4,7 @@
   "description": "Pretty prints bunyan logs to stdout",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha ./test/test.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/CMaylone/bunyan-pretty-stream#readme",
   "dependencies": {
-    "bunyan": "^1.5.1"
+    "bunyan": "^1.5.1",
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
   }
 }
