@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/CMaylone/bunyan-pretty-stream.svg?branch=master)](https://travis-ci.org/CMaylone/bunyan-pretty-stream)
+
 # bunyan-pretty-stream
 Pretty prints bunyan logs to stdout
 
