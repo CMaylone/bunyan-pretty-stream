@@ -1,4 +1,4 @@
-*Deprecated* Recommend using [node-bunyan-stream](https://github.com/mrrama/node-bunyan-prettystream) instead.
+**Deprecated** Recommend using [node-bunyan-stream](https://github.com/mrrama/node-bunyan-prettystream) instead.
 
 [![Build Status](https://travis-ci.org/CMaylone/bunyan-pretty-stream.svg?branch=master)](https://travis-ci.org/CMaylone/bunyan-pretty-stream)
 
